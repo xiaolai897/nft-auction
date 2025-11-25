@@ -205,3 +205,12 @@ npx hardhat test --reporter spec
 ### 测试网
 - Sepolia Testnet
 - Hardhat Local Network
+
+
+### Seplia测试网合约地址
+- Chainlink：0x694AA1769357215DE4FAC081bf1f309aDC325306
+- PriceConverter：0xae56cabda484842bdcfc8886d1d1d9aacb831d2e
+- NFT实现合约：0x4da5005bbdfbe56a074d47dc1ad8a8a010932bb0
+- NFT代理合约：0x6cc6dc02309e957a5634df134a2c272c5949cde9
+- Factory实现合约：0xf55732d080a92c878112518f4c8bcf8c5034f0d4
+- Factory代理合约：0xbe886001d06c25a243585c45fb118821a855d76b
